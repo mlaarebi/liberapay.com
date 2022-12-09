@@ -15,7 +15,7 @@ msgstr ""
 
 #, python-brace-format
 msgid "This page contains machine-translated text which hasn't yet been reviewed and might be inaccurate. {link_start}You can contribute{link_end}."
-msgstr ""
+msgstr "تحتوي هذه الصفحة على نص مترجم آليا، ولم يراجع بهد، وبالتالي قد يكون غير دقيق"
 
 msgid "Your Liberapay account has been disabled"
 msgstr "تم تعطيل حساب Librepay الخاص بك"
@@ -378,7 +378,7 @@ msgid "You can try again, possibly with another payment method, by clicking on t
 msgstr ""
 
 msgid "Try again"
-msgstr ""
+msgstr "جرب مجددا"
 
 #, python-brace-format
 msgid "A refund of {money_amount} has been initiated"
